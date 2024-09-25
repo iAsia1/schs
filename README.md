@@ -3,6 +3,9 @@
 Check the [recent logs](https://rentry.co/schs#recent-logs) for updates, and go to the [simplified version](https://rentry.co/schs-mobi) of this site if you use a mobile! <br>*
 <br>
 
+# Textbooks
+*Only textbooks for Grade 9 are available, more will be coming soon*
+
 ## MathLinks 9
 ![](https://i.ibb.co/DM5Qyn2/ezgif-2-d08c039abb.jpg) <br>
 The Next Generation of Mathematics 7-12 Resources. This brand new program was written to meet the general and specific outcomes of the 2006 Common Curriculum Framework for 7 - 9 Mathematics. Mathematics textbook for Grade 9, Here is the online [Index](https://learningcentre.nelson.com/student/9780070973404/9780070973404.htm) for individual units/chapters <br>
@@ -21,7 +24,9 @@ Developed specifically to address the new Grade 9 Social Studies curriculum, Iss
 **Download** - https://files.catbox.moe/vdobu6.pdf <br>
 **Library** - https://archive.org/details/issuesforcanadia0000lych <br>
 
-# Quick Links
+# Links
+*It is recommended to use an adblock on your browser, the best one being [uBlock Origin](https://ublockorigin.com/)
+Unless it explicitly says to use one under the link, all of these sites are good and safe to use.*
 
 ## School
 Name | Link | Description
@@ -63,12 +68,14 @@ MyFaves | https://myfav.es/ | Internet start page (in English)
 Surf | https://surf.mk/ | Internet start page (in Macedonian)
 
 
-# Recent Logs
-*Updated in September 25th, 2024*
+# Commits
+*Updated in September 25th, 2024, Includes last 20 logs, go to the [Commit Archive](https://rentry.co/schs-sp3) for older logs*
 
-(ɔ) iAsia1, 2024 
-*For legal reasons: The content found on this website are from publicly available sources, legal issues should be taken to them rather than SCHS
-If you want to support publishers of educational material, please get the books [legally](https://www.mheducation.ca/)*
-[GitHub Backup](https://github.com/iAsia1/schs) 
-[Mobile Version](https://rentry.co/schs-mobi)
-[Sub-page Index](https://rentry.co/schs-sp0)
+***
+
+(ɔ) iAsia1, 2024 <br>
+*For legal reasons: The content found on this website are from publicly available sources, legal issues should be taken to them rather than SCHS <br>
+If you want to support publishers of educational material, please get the books [legally](https://www.mheducation.ca/)* <br>
+[GitHub Backup](https://github.com/iAsia1/schs) <br>
+[Mobile Version](https://rentry.co/schs-mobi) <br>
+[Sub-page Index](https://rentry.co/schs-sp0) <br>
