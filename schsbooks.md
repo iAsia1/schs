@@ -34,6 +34,7 @@ Math Foundation and Pre-Calculus 10 is designed to provide students with the mat
 **PDF** - https://files.catbox.moe/y421qp.pdf <br>
 
 ### Science 10
+![](https://i.ibb.co/nfft2vY/img-ezgif-com-webp-to-png-converter.png#left)
 Addison Wesley Science 10 offers a comprehensive resource developed specifically for Alberta. This resource prepares students for Level 30 diploma exams and provides complete support for Chemistry 20 preparation. Sciences textbook for Grade 10C, here is the page where you can [buy it](https://a.co/d/iVeU1JG), as there isn't and index available <br>
 **PDF** - https://files.catbox.moe/uyojog.pdf <br>
 
