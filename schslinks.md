@@ -1,5 +1,5 @@
 # Links
-*It is recommended to use an adblock on your browser, the best one being [uBlock Origin](https://ublockorigin.com/)
+*It is recommended to use an adblock on your browser, the best one being [uBlock Origin](https://ublockorigin.com/) <br>
 Unless it explicitly says to use one under the link, all of these sites are good and safe to use.*
 
 ## School
