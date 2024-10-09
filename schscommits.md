@@ -1,0 +1,53 @@
+# Updates
+*Commits for the SCHS Rentry, 
+Updated in October 9th 2024*
+
+## October [[v2.0]](#)
+- updated textbooks section text (includes copyright disclaimer)
+- warning for library links as they're currently down
+- added mathematics 10 general
+- added mathematics 10 precalc
+- added science 10
+- changed layout of mathematics 10 general
+- changed layout of science 10
+- updated subpage index hyperlink to only subpages
+- planning sitemap
+- added link of the week, fmhy being first
+- updated subpages index, now with grade 10 textbooks
+- added fmhy as main links
+- added headers to commit page
+- deprecated commit archive
+- added TOCs for content sites
+- main site now includes links to sections
+- created /schsmax as an archive of v1.x
+- content sections moved into separate sites
+- updated github backup
+- added textbook notes subpage
+
+## September [[v1.0]](https://rentry.co/schs-v1)
+- ui changes
+- smaller textbook thumbnails
+- header adjustments, preparing for grade 10 textbooks
+- added sightlines 9
+- created sub-page index
+- created mobile version
+- removed vidbinge for sudoflix
+- created subpage 1
+- created subpage 2
+- updated table of contents
+- new interface for textbooks
+- added link descriptions
+- redesigned quick links
+- added copyright notice at footer
+- added note on mathlinks 9
+- changed terminology 'download' to pdf as you can view, not ddl
+- added footer
+- created github backup
+- created Legal Options to get your books
+- added more links onto quick links page
+- added quick links categories
+- added grade 9 social textbook
+- added library link for mathlinks 9
+- added images to textbooks
+- added recent logs section
+- moved index links
