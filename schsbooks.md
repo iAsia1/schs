@@ -1,5 +1,6 @@
 # Textbooks
-*Textbooks for Grade 9 and 10 are available, more coming soon*
+*Textbooks for Grade 9 and 10 are available, more coming soon* <br>
+*Library links aren't available on the backup because they are unreliable, you can go to the [Archive.org profile](#) instead*
 
 ## Grade 9
 ### MathLinks 9
