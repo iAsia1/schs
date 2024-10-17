@@ -34,3 +34,12 @@ Number | Name | Link
 01 | Polar Bear Resources | https://rentry.co/pbar
 02 | Bicycle Resources | https://rentry.co/biyr
 A | Paste Index | https://rentry.co/schs-spz
+
+## Instances
+*Backups of the site if one goes down*
+Number | Name | Link
+---|---|---
+00 | Index | https://rentry.co/schs-sp0
+01 | Rentry | https://rentry.co/schs
+02 | GitHub | https://github.com/iAsia/schs
+03 | Stellular | https://stellular.net/schs
